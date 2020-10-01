@@ -1,0 +1,26 @@
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+}
+.Head {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: rgb(127,127,127);
+}
+.Trending{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color:rgb(46,22,230);
+}
+.goToVarsity{
+    position: absolute;
+
+    font-family: 'Poppins', sans-serif;
+    color: rgb(46,22,230);
+    font-size: 20px;
+   right:10px;
+   top:10px;
+
+}

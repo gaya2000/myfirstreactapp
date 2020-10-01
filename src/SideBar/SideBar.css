@@ -1,0 +1,23 @@
+
+.bar{
+   
+    background-color: rgb(46,22,230);
+    height:650px;
+    width: 300px;
+    border-radius:10px;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    text-align: center;
+    
+}
+.bar :hover{
+    color: yellow;
+}
+.line{
+    font-size: 5px;
+}
+p:hover{
+    color:yellow;
+}
+
+ 

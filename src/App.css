@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  
+}
+.cc{
+  display: flex;
+  flex-flow: row;
+  justify-content: flex-end;
+  flex-direction: row;
+  column-gap: 10px;
+  
+}
+.hori{
+  display: flex;
+  flex-flow: row;
+  justify-content: flex-start;
+  column-gap: 10px;
+  
+  flex-direction: row;
+
+}
+
+
+ 
